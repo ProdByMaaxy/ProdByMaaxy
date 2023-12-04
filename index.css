@@ -1,0 +1,42 @@
+body{
+    background-color:#B8CDDB;
+    margin:0px;
+}
+ul{
+    list-style:none;
+    padding:0px;
+    margin:0px;
+}
+a{
+    text-decoration:none;
+    color:inherit
+}
+.navig{
+    margin-left:8px;
+}
+.global_nav{
+    height:260px;
+    width:25px;
+}
+.icons_nav{
+    height: 25px;
+    width: 25px;
+}
+.bloc_liste_nav{
+    width:fit-content;
+    height:auto;
+}
+.liste_nav{
+    display:flex;
+    flex-direction: column;
+    height:auto;
+    width:auto; 
+}
+.item_nav{
+padding-bottom:18px;
+padding-top:18px;
+}
+.cover{
+    width:300px;
+    height:auto;
+}
